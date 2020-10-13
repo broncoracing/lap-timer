@@ -30,3 +30,10 @@
 *.exe
 *.out
 *.app
+
+# VS Code files
+.vscode/
+
+# macOS system files
+
+.DS_Store
