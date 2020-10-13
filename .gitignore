@@ -32,8 +32,8 @@
 *.app
 
 # VS Code files
-.vscode/
+**/.vscode/
 
 # macOS system files
 
-.DS_Store
+**/.DS_Store
